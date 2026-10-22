@@ -10,6 +10,7 @@ Salin perintah ini ke terminal, lalu tekan Enter.
 git clone https://github.com/JinggaAmelia23/Project-Perlahan.git
 
 Tunggu sampai proses selesai.
+
 4. Masuk ke folder project
 cd Project-Perlahan
 
